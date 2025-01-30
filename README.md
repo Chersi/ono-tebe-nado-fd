@@ -1,1 +1,1 @@
-https://practicum.yandex.ru/learn/fullstack-developer-plus/courses/f9e207b2-d937-4367-9a33-c01c05a089bc/sprints/442542/topics/cbfcdd65-ef88-4643-9a3d-684f229ab115/lessons/7d03ee0a-812d-4773-bf4e-4e5d2c2c5f92/
+https://github.com/Chersi/ono-tebe-nado-fd
