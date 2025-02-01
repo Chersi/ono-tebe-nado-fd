@@ -16,12 +16,12 @@
 }
 
 .header__links-list_home-link_active { 
-  text-decoration: none; 
-} 
+  text-decoration: none;
+}
 
 .header__links-list_home { 
-  list-style-type: none; 
-} 
+  list-style-type: none;
+}
 
 .logo {
   width: 148px;
@@ -127,7 +127,7 @@
 }
 
 .lots {
-  margin-left: 24px; 
+  margin-left: 24px;
 }
 
 .lots__heading {
