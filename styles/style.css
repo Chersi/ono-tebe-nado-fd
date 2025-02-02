@@ -67,10 +67,9 @@
 .cover_title {
   position: relative;
   z-index: 1;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 115px);
-  row-gap: 20px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 18px;
   padding: 165px 50px 106px;
   color: rgb(255 255 255);
   font-size: 100px;
@@ -79,22 +78,20 @@
 }
 
 .title_left {
-  grid-column: 1/2;
-  grid-row: 1/2;
+  text-align: start;
 }
 
 .title_center {
-  grid-column: 2/3;
-  grid-row: 2/3;
-  align-self: center;
-  padding-left: 15px;
+  padding-left: 30.5px;
+  text-align: center;
 }
 
 .title_right {
-  grid-column: 2/4;
-  grid-row: 3/4;
-  justify-self: end;
-  margin-right: -30px;
+  text-align: end;
+}
+
+.no-letter-spacing {
+  letter-spacing: normal;
 }
 
 .description {
@@ -117,6 +114,7 @@
   min-height: 51px;
   margin-right: 50px;
   border-width: 1px;
+  border-style: solid;
   border-color: rgb(255 255 255);
   padding: 12px 32px 11px 31px;
   color: rgb(255 255 255);
