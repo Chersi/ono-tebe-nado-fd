@@ -19,4 +19,4 @@
 :white_check_mark: Корректно используется свойство "position" и "z-index".
 
 
-[Проект на GitHub] (https://github.com/Chersi/ono-tebe-nado-fd)
+[Проект на GitHub](https://github.com/Chersi/ono-tebe-nado-fd)
